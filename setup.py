@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='azucar_reactive_websocket',
-    version='0.1',
+    version='0.2.1',
     author='juan_k704',
     author_email='juan_k704@hotmail.com',
     description='Un manejador de WebSocket reactivo usando RxPython y websockets.',

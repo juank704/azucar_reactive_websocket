@@ -2,7 +2,7 @@ import asyncio
 import websockets
 import rx
 from rx import operators as ops
-from imagen_handler import ImageHandler
+from azucar_reactive_websocket.imagen_handler import ImageHandler
 
 class ReactiveWebSocketHandler:
     def __init__(self, uri):
